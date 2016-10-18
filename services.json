@@ -43,24 +43,9 @@
 		"title": "composition",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ad, nam ipsam recusandae illum, totam id dignissimos asperiores unde delectus repellat officiis sapiente voluptate vel porro. Cupiditate optio cumque dolorum.",
 		"available": true
-	}, {
-		"title": "perspective",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ad, nam ipsam recusandae illum, totam id dignissimos asperiores unde delectus repellat officiis sapiente voluptate vel porro. Cupiditate optio cumque dolorum.",
-		"available": false
-	}, {
-		"title": "References",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ad, nam ipsam recusandae illum, totam id dignissimos asperiores unde delectus repellat officiis sapiente voluptate vel porro. Cupiditate optio cumque dolorum.",
-		"available": false
-	}, {
-		"title": "management",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ad, nam ipsam recusandae illum, totam id dignissimos asperiores unde delectus repellat officiis sapiente voluptate vel porro. Cupiditate optio cumque dolorum.",
-		"available": true
-	}, {
-		"title": "suspense",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ad, nam ipsam recusandae illum, totam id dignissimos asperiores unde delectus repellat officiis sapiente voluptate vel porro. Cupiditate optio cumque dolorum.",
-		"available": true
-	}, {
-		"title": "suspense",
+	},
+			 {
+		"title": "composition",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ad, nam ipsam recusandae illum, totam id dignissimos asperiores unde delectus repellat officiis sapiente voluptate vel porro. Cupiditate optio cumque dolorum.",
 		"available": true
 	}
